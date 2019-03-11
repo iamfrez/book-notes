@@ -16,7 +16,7 @@ In *symmetric encryption*, the key used to decrypt is the same as the key used t
 
 
 
-![1552257849940](/home/mrcpy/workspace/github/book-notes/Serious-Cryptography/images/1552257849940.png)
+![1552257849940](./images/1552257849940.png)
 
 A cipher, **E**, takes a plaintext **P** and a key **K** as input, producing a ciphertext **C** as output.
 
